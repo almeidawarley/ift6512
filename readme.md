@@ -1,6 +1,6 @@
 Implementation of the representative scenario algorithm proposed in ``Bengio, Y., Frejinger, E., Lodi, A., Patel, R., & Sankaranarayanan, S. (2020, September). A learning-based algorithm to quickly compute good primal solutions for Stochastic Integer Programs. In International Conference on Integration of Constraint Programming, Artificial Intelligence, and Operations Research (pp. 99-111). Springer, Cham.``
 
-This implementation has been developed by Warley Almeida Silva as part of the final project of the IFT 6512 Stochastic Programming course. The course has been taught by professor Fabian Bastin at Université de Montréal during the Winter semester of 2022. The problem considered in this implementation is the Stochastic Capacitated Facility Location Problem (SCFLP). Please find the latest version of the report in this repository.
+This implementation has been developed by Warley Almeida Silva as part of the final project of the IFT 6512 Stochastic Programming course. The course has been taught by professor Fabian Bastin at Université de Montréal during the Winter semester of 2021. The problem considered in this implementation is the Stochastic Capacitated Facility Location Problem (SCFLP). Please find the latest version of the report in this repository.
 
 
 Quick explanation about the structure of this repository:
